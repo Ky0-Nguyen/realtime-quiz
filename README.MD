@@ -65,7 +65,7 @@ Below is an architecture diagram illustrating how the components of the system i
 
 ## 5. Video Demo
 
-[![Real-Time Quiz System Demo](http://img.youtube.com/vi/onyaH1l2UPE/0.jpg)](https://youtu.be/onyaH1l2UPE)
+[![Real-Time Quiz System Demo](https://img.youtube.com/vi/onyaH1l2UPE/0.jpg)](https://www.youtube.com/watch?v=onyaH1l2UPE)
 
 ## Conclusion
 
